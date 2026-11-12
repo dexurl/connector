@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">DexURL</title>
+  <desc id="desc">Dark-mode BrandMark: white square brackets, white left chevron, orange right chevron on zinc-950.</desc>
+  <rect width="64" height="64" fill="#09090b"/>
+  <g transform="translate(8 10.6667) scale(1.333333)" fill="none" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M9.25 7H6v18h3.25" stroke="#ffffff" stroke-width="3.2"/>
+    <path d="M12 11 17 16l-5 5" stroke="#ffffff" stroke-width="3.45"/>
+    <path d="M24 11 19 16l5 5" stroke="#ea580c" stroke-width="3.45"/>
+    <path d="M26.75 7H30v18h-3.25" stroke="#ffffff" stroke-width="3.2"/>
+  </g>
+</svg>

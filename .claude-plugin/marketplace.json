@@ -1,0 +1,17 @@
+{
+  "name": "dexurl-plugins",
+  "description": "DexURL for Claude: short links, QR addresses, Vault and Bio pages from your assistant.",
+  "owner": {
+    "name": "DexURL"
+  },
+  "plugins": [
+    {
+      "name": "dexurl",
+      "source": "./claude-plugin",
+      "description": "Connects Claude to your DexURL account and adds a campaign-links skill that creates one short link per channel.",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["short links", "qr codes", "campaigns"]
+    }
+  ]
+}

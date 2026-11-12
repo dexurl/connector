@@ -1,0 +1,17 @@
+{
+  "name": "dexurl",
+  "displayName": "DexURL",
+  "version": "1.0.0",
+  "description": "Use DexURL from Claude: create, find and edit short links and QR addresses, save to your Vault and add links to your Bio page.",
+  "author": {
+    "name": "DexURL",
+    "url": "https://dexurl.com"
+  },
+  "homepage": "https://dexurl.com/connect",
+  "license": "MIT",
+  "keywords": ["short links", "qr codes", "links", "bio page", "vault", "campaigns"],
+  "documentationUrl": "https://dexurl.com/connect",
+  "supportUrl": "https://dexurl.com/support",
+  "privacyPolicyUrl": "https://dexurl.com/legal/privacy",
+  "termsOfServiceUrl": "https://dexurl.com/legal/terms"
+}

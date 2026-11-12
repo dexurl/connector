@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dexurl": {
+      "type": "http",
+      "url": "https://dexurl.com/mcp"
+    }
+  }
+}

@@ -20,8 +20,12 @@ Full guide: **[dexurl.com/connect](https://dexurl.com/connect)**
 
 ## Add it to Claude
 
-In Claude, open Settings, then Customize, then Connectors. Choose Add, then Add custom connector, name it
-DexURL, and enter `https://dexurl.com/mcp`. Choose Connect, sign in to DexURL, and choose Allow.
+DexURL is in Claude's connector directory: [claude.ai/directory/dexurl](https://claude.ai/directory/dexurl).
+In Claude, open Settings, then Customize, then Connectors, search for DexURL and connect it. Sign in to
+DexURL and choose Allow.
+
+To add it by address instead, choose Add in Connectors, then Add custom connector, name it DexURL, and enter
+`https://dexurl.com/mcp`.
 
 Add it on the web or in the desktop app; it is then available in the Claude mobile app as well.
 

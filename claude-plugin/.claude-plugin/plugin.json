@@ -8,6 +8,7 @@
     "url": "https://dexurl.com"
   },
   "homepage": "https://dexurl.com/connect",
+  "repository": "https://github.com/dexurl/connector",
   "license": "MIT",
   "keywords": [
     "short links",
@@ -17,5 +18,8 @@
     "vault",
     "campaigns"
   ],
-  "privacyPolicyUrl": "https://dexurl.com/legal/privacy"
+  "privacyPolicyUrl": "https://dexurl.com/legal/privacy",
+  "documentationUrl": "https://dexurl.com/connect",
+  "supportUrl": "https://dexurl.com/support",
+  "termsOfServiceUrl": "https://dexurl.com/legal/terms"
 }

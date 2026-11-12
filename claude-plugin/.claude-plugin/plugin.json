@@ -9,9 +9,13 @@
   },
   "homepage": "https://dexurl.com/connect",
   "license": "MIT",
-  "keywords": ["short links", "qr codes", "links", "bio page", "vault", "campaigns"],
-  "documentationUrl": "https://dexurl.com/connect",
-  "supportUrl": "https://dexurl.com/support",
-  "privacyPolicyUrl": "https://dexurl.com/legal/privacy",
-  "termsOfServiceUrl": "https://dexurl.com/legal/terms"
+  "keywords": [
+    "short links",
+    "qr codes",
+    "links",
+    "bio page",
+    "vault",
+    "campaigns"
+  ],
+  "privacyPolicyUrl": "https://dexurl.com/legal/privacy"
 }
